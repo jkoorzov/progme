@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "circe-three-points",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "C:/Users/Ян/Desktop/progme/apps/circle_from_points/main.py"
+        }
+        
+    ]
+}
